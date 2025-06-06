@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a student from Brazil<br><br>- 🔭 I’m working as a Agent of <br>transporter.<br>- 📚 I'm currently learning Web Developing and Database<br>- ⚡ In my free time I like to learn new things, watch movies and drink coffee.</p>
+<p align="left">I'm a student from Brazil<br><br>- 🔭 I’m working as a Junior Developer.<br>- 📚 I'm currently learning Web Developing and Database<br>- ⚡ In my free time I like to learn new things, watch movies and drink coffee.</p>
 
 ###
 

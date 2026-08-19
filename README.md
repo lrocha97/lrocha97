@@ -73,15 +73,12 @@
 
 ---
 
-### 📊 GitHub Activity & Contributions
+---
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/2ea043/lrocha97" alt="Lucas's Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lrocha97&show_icons=true&theme=tokyonight&hide_border=true" height="145" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrocha97&layout=compact&theme=tokyonight&hide_border=true" height="145" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+React+%26+Python;Building+Multi-Tenant+SaaS+%26+AI+Workflows;Open+to+Global+Remote+Opportunities" alt="Typing SVG" />
+  
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,16,30&height=110&section=footer" width="100%" alt="Footer Wave" />
 </div>

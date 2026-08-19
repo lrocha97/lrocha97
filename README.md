@@ -76,5 +76,6 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lrocha97&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="Streak Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lrocha97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Lucas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrocha97&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </div>
